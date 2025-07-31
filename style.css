@@ -1,0 +1,39 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+div {
+    border: 1px solid rgba(255, 255, 255, 0.822);
+    text-align: center;
+    object-fit: cover;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.feat {
+    float: left;
+    width: 45%;
+    margin: 20px;
+}
+
+.feat1 {
+    float: right;
+    width: 45%;
+    margin: 20px;
+}
